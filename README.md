@@ -63,4 +63,4 @@ Normally, we perform pressure-measurement of docker registry by executing `docke
 
 ## Refs
 
-* [migrator](https://docs.openstack.org/developer/performance-docs/test_results/container_repositories/registry2/index.html)
+* [openstack test plans](https://docs.openstack.org/developer/performance-docs/test_results/container_repositories/registry2/index.html)
