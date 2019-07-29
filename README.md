@@ -3,7 +3,7 @@ registry-pressure-measurement-tools
 
 registry-pressure-measurement-tools is a tool that measures the performance of docker registry by using only several few machines.
 
-## History
+## Introduction
 
 Normally, we perform pressure-measurement of docker registry by executing `docker pull` on a great number of machines, which is effective and convenient but it will be unuseful when there are no enough machines, and in this more common situation, `registry-pressure-measurement-tools` put to use.
 
