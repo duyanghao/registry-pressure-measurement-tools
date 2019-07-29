@@ -6,6 +6,10 @@ registry-pressure-measurement-tools is a tool that measures the performance of d
 ## Architecture
 
 ![](images/architecture.png)
+
+## PULL_TIME(CONCURRENCY)
+
+![](images/pull_time.png)
     
 ## Refs
 
