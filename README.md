@@ -7,7 +7,7 @@ registry-pressure-measurement-tools is a tool that measures the performance of d
 
 Normally, we perform pressure-measurement of docker registry by executing `docker pull` on a great number of machines, which is effective and convenient but it will be unuseful when there are no enough machines, and in this more common situation, `registry-pressure-measurement-tools` put to use.
 
-`registry-pressure-measurement-tools` is based on [openstack test_plans](https://docs.openstack.org/developer/performance-docs/test_results/container_repositories/registry2/index.html) and uses only several few machines to achieve a similar effect as below.
+`registry-pressure-measurement-tools` is based on [openstack test_plans](https://docs.openstack.org/developer/performance-docs/test_results/container_repositories/registry2/index.html) and uses only several few machines to achieve a similar effect as above.
 
 ## Architecture
 
