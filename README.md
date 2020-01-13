@@ -11,7 +11,7 @@ Normally, we perform pressure-measurement of docker registry by executing `docke
 
 ## Architecture
 
-![](images/architecture.png)
+![](images/pt-Few-Machines.png)
 
 ## Test Plan
 
